@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/projects/suvendu/rajeev/carhauling/admin/static/css/main.f9dd71ac.chunk.css",
+    "main.js": "/projects/suvendu/rajeev/carhauling/admin/static/js/main.5f220038.chunk.js",
+    "main.js.map": "/projects/suvendu/rajeev/carhauling/admin/static/js/main.5f220038.chunk.js.map",
+    "runtime-main.js": "/projects/suvendu/rajeev/carhauling/admin/static/js/runtime-main.e6684209.js",
+    "runtime-main.js.map": "/projects/suvendu/rajeev/carhauling/admin/static/js/runtime-main.e6684209.js.map",
+    "static/css/2.bb0ec4b3.chunk.css": "/projects/suvendu/rajeev/carhauling/admin/static/css/2.bb0ec4b3.chunk.css",
+    "static/js/2.227f2f57.chunk.js": "/projects/suvendu/rajeev/carhauling/admin/static/js/2.227f2f57.chunk.js",
+    "static/js/2.227f2f57.chunk.js.map": "/projects/suvendu/rajeev/carhauling/admin/static/js/2.227f2f57.chunk.js.map",
+    "index.html": "/projects/suvendu/rajeev/carhauling/admin/index.html",
+    "precache-manifest.ea5f4603da8041a27569da729fde69c0.js": "/projects/suvendu/rajeev/carhauling/admin/precache-manifest.ea5f4603da8041a27569da729fde69c0.js",
+    "service-worker.js": "/projects/suvendu/rajeev/carhauling/admin/service-worker.js",
+    "static/css/2.bb0ec4b3.chunk.css.map": "/projects/suvendu/rajeev/carhauling/admin/static/css/2.bb0ec4b3.chunk.css.map",
+    "static/css/main.f9dd71ac.chunk.css.map": "/projects/suvendu/rajeev/carhauling/admin/static/css/main.f9dd71ac.chunk.css.map",
+    "static/js/2.227f2f57.chunk.js.LICENSE.txt": "/projects/suvendu/rajeev/carhauling/admin/static/js/2.227f2f57.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/projects/suvendu/rajeev/carhauling/admin/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6684209.js",
+    "static/css/2.bb0ec4b3.chunk.css",
+    "static/js/2.227f2f57.chunk.js",
+    "static/css/main.f9dd71ac.chunk.css",
+    "static/js/main.5f220038.chunk.js"
+  ]
+}
